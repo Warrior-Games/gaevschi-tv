@@ -1,4 +1,10 @@
 {
+  "package": {
+    "versionName": "31.38",
+    "versionCode": 2328,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v31.37/gaevschi.apk",
+    "changelog": ["Gaevschi Official", "Telegram: t.me/Gaevschi"]
+  },
   "beta": {
     "versionName": "31.38",
     "versionCode": 2328,
