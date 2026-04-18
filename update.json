@@ -2,10 +2,11 @@
   "package": {
     "versionName": "7.04",
     "versionCode": 704,
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v31.37/gaevschi.apk",
-    "changelog": [
-      "Gaevschi 7.04",
-      "t.me/Gaevschi"
-    ]
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v7.04/gaevschi.apk"
+  },
+  "beta": {
+    "versionName": "7.04",
+    "versionCode": 704,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v7.04/gaevschi.apk"
   }
 }
