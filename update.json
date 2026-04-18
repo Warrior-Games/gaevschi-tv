@@ -2,11 +2,42 @@
   "package": {
     "versionName": "7.04",
     "versionCode": 704,
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v7.04/gaevschi.apk"
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v7.04/gaevschi.apk",
+    "changelog": [
+      "Gaevschi Official",
+      "Исправлена иконка",
+      "Исправлены обновления",
+      "Оптимизация работы"
+    ]
   },
   "beta": {
     "versionName": "7.04",
     "versionCode": 704,
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v7.04/gaevschi.apk"
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v7.04/gaevschi.apk",
+    "changelog": [
+      "Gaevschi Official",
+      "Исправлена иконка",
+      "Исправлены обновления",
+      "Оптимизация работы"
+    ]
+  }
+}
+
+
+
+
+
+
+{
+  "package": {
+    "versionName": "7.04",
+    "versionCode": 704,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v7.04/gaevschi.apk",
+    "changelog": [
+      "Gaevschi Official",
+      "Исправлена иконка",
+      "Исправлены обновления",
+      "Оптимизация работы"
+    ]
   }
 }
