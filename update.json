@@ -3,5 +3,10 @@
     "versionName": "7.04",
     "versionCode": 704,
     "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v7.04/gaevschi.apk"
+  },
+  "beta": {
+    "versionName": "7.04",
+    "versionCode": 704,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v7.04/gaevschi.apk"
   }
 }
