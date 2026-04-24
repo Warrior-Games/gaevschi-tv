@@ -1,13 +1,13 @@
 {
   "package": {
-    "versionName": "6.04.02",
-    "versionCode": 60402,
+    "versionName": "6.04.01",
+    "versionCode": 60401,
     "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.02/gaevschi.apk",
     "changelog": ["Gaevschi Official", "Telegram: t.me/Gaevschi"]
   },
   "beta": {
-    "versionName": "6.04.02",
-    "versionCode": 60402,
+    "versionName": "6.04.01",
+    "versionCode": 60401,
     "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.02/gaevschi.apk",
     "changelog": ["Gaevschi Official", "Telegram: t.me/Gaevschi"]
   }
