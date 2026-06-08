@@ -1,16 +1,16 @@
 {
   "package": {
-    "versionName": "6.04.04",
-    "versionCode": 60404,
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.04/gaevschi.apk",
+    "versionName": "6.04.05",
+    "versionCode": 60405,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.05/gaevschi.apk",
     "changelog": ["Улучшена система безопасности и защита доступа",
 "Исправлены ошибки при обновлении приложения",
 "Оптимизирована работа уведомлений об обновлениях"]
   },
   "beta": {
-    "versionName": "6.04.04",
-    "versionCode": 60404,
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.04/gaevschi.apk",
+    "versionName": "6.04.05",
+    "versionCode": 60405,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.05/gaevschi.apk",
     "changelog": ["Улучшена система безопасности и защита доступа",
 "Исправлены ошибки при обновлении приложения",
 "Оптимизирована работа уведомлений об обновлениях"]
