@@ -1,18 +1,14 @@
 {
   "package": {
-    "versionName": "6.04.04",
-    "versionCode": 60404,
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.04/gaevschi.apk",
-    "changelog": ["Улучшена система безопасности и защита доступа",
-"Исправлены ошибки при обновлении приложения",
-"Оптимизирована работа уведомлений об обновлениях"]
+    "versionName": "6.04.05",
+    "versionCode": 60405,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.05/gaevschi.apk",
+    "changelog": ["Добавлена вкладка Кино", "Исправлен баг с активацией", "Новые приветствия"]
   },
   "beta": {
-    "versionName": "6.04.04",
-    "versionCode": 60404,
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.04/gaevschi.apk",
-    "changelog": ["Улучшена система безопасности и защита доступа",
-"Исправлены ошибки при обновлении приложения",
-"Оптимизирована работа уведомлений об обновлениях"]
+    "versionName": "6.04.05",
+    "versionCode": 60405,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.05/gaevschi.apk",
+    "changelog": ["Добавлена вкладка Кино", "Исправлен баг с активацией", "Новые приветствия"]
   }
 }
