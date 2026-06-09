@@ -3,8 +3,8 @@
     "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.06/gaevschi.apk"
   },
   "beta": {
-    "versionCode": 60404,
-    "versionName": "6.04.04",
+    "versionCode": 60406,
+    "versionName": "6.04.06",
     "changelog": [
       "Добавлена вкладка Кино",
       "Исправлена система уведомлений",
