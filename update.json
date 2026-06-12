@@ -20,7 +20,7 @@
     ]
   },
   "announcement": {
-    "enabled": false,
+    "enabled": true,
     "title": "📢 Новости Gaevschi",
     "message": "Спасибо за подриску 🌹."
   }
