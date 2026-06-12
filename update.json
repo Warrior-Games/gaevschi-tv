@@ -20,7 +20,7 @@
     ]
   },
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "title": "📢 Новости Gaevschi",
     "message": "С 1 Июня платная полписка."
   }
