@@ -1,4 +1,7 @@
 {
+  "package": {
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.06/gaevschi.apk"
+  },
   "stable": {
     "versionName": "6.04.06",
     "versionCode": 60406,
@@ -22,6 +25,6 @@
   "announcement": {
     "enabled": true,
     "title": "📢 Новости Gaevschi",
-    "message": "Спасибо за подриску 🌹."
+    "message": "Спасибо за подписку 🌹."
   }
 }
