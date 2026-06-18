@@ -1,11 +1,11 @@
 {
   "package": {
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.06/gaevschi.apk"
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.07/gaevschi.apk"
   },
   "stable": {
-    "versionName": "6.04.06",
-    "versionCode": 60406,
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.06/gaevschi.apk",
+    "versionName": "6.04.07",
+    "versionCode": 60407,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.07/gaevschi.apk",
     "changelog": [
       "Исправлена ошибка активации при сбоях сети",
       "Исправлен поиск — корректные результаты",
@@ -13,9 +13,9 @@
     ]
   },
   "beta": {
-    "versionName": "6.04.06",
-    "versionCode": 60406,
-    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.06/gaevschi.apk",
+    "versionName": "6.04.07",
+    "versionCode": 60407,
+    "downloadUrl": "https://github.com/Warrior-Games/gaevschi-tv/releases/download/v6.04.07/gaevschi.apk",
     "changelog": [
       "Исправлена ошибка активации при сбоях сети",
       "Исправлен поиск — корректные результаты",
